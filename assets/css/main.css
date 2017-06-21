@@ -42,6 +42,14 @@
 		-webkit-text-size-adjust: none;
 	}
 
+/* Bot */
+  .bot {
+		height: 500px;
+		margin: 0, auto;
+		width: 100%;
+		border: 3px dotted purple;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
